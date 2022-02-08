@@ -1,4 +1,5 @@
-# Contador-con-2-sensores
+
+
 #include <LiquidCrystal.h> 
 LiquidCrystal lcd(13,12,11,10,9,8); //rs,e,d4,d5,d6,d7
 
